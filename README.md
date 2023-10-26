@@ -1,5 +1,8 @@
 Isso é apenas um jogo da velha bem otimizado.
-No final do Readme tem os vídeos explicando a lógica.
+
+Explicando o algoritimo: <br>
+#### [Rodando o jogo](https://youtu.be/zLJRv9zqJ2s?si=qHwYgUH2K69Ojzi2)
+#### [Explicando o algoritimo](https://youtu.be/1WuQXfJU4Ck?si=xEacTKQMhBHpjmPi)
 
 
 #### README: Compilação e Execução do Projeto "hash.c"
