@@ -204,3 +204,7 @@ Aqui começa a função principal do jogo. Ela cria um objeto Game para represen
 ### Representação visual:
 ![Alt text](img/hash1.png)
 
+
+# Mostrando jogo funcionando
+
+

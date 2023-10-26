@@ -92,7 +92,7 @@ int insertTable(Game *game, GamePositionXO *gamePosition, int optionLine, int op
 }
 
 void roundGame() {
-    printf("\n turn do jogador %c:", turn);
+    printf("\n vez do jogador %c:", turn);
     fflush(stdin);
     printf("\n Escolha a posicao (linha) %c:", turn);
     scanf("%d", &optionLine);
